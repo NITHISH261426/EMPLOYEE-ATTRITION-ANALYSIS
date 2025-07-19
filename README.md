@@ -4,3 +4,8 @@ This project involves the analysis and visualization of employee data to identif
 ## 🎯 Project Objective
 
 The objective of this HR Analytics project is to explore and visualize employee data to uncover key factors contributing to attrition within the organization. By analyzing trends across demographics, compensation, job satisfaction, and work-life balance, the goal is to provide actionable insights to HR and management teams to reduce turnover, improve employee retention, and enhance workplace satisfaction.
+
+## 🛠️ Tools Used
+*   **Power BI:** For data modeling, DAX calculations, and interactive visualizations.
+*   **Power Query:** For data cleaning, transformation, and preparation.
+
