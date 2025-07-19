@@ -17,4 +17,6 @@ This HR Analytics dataset contains 1,480 employee records with 38 features relat
 It is used to analyze employee attrition patterns and identify key factors influencing turnover.
 The data includes both categorical and numerical variables and is ideal for building dashboards and predictive models.
 
+- <a href="https://github.com/NITHISH261426/EMPLOYEE-ATTRITION-ANALYSIS/blob/main/HR_Analytics.csv">Dataset</a>
+
 
