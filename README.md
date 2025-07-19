@@ -16,3 +16,5 @@ The analysis is based on a comprehensive, simulated dataset representing interna
 This HR Analytics dataset contains 1,480 employee records with 38 features related to demographics, job roles, satisfaction levels, compensation, and attrition.
 It is used to analyze employee attrition patterns and identify key factors influencing turnover.
 The data includes both categorical and numerical variables and is ideal for building dashboards and predictive models.
+
+
