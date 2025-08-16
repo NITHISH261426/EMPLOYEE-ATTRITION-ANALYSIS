@@ -76,7 +76,7 @@ To present findings in an accessible and interactive format, a dashboard was cre
 1.  **Overtime is a Critical Driver of Attrition:**
     *   Employees who work overtime have a significantly higher attrition rate (approx. **31%**) compared to those who do not (approx. **10%**). This suggests that burnout and poor work-life balance are major factors in an employee's decision to leave.
 
-2.  **Vulnerability in Early-Career & Low-Income Roles:**
+2.  **Vulnerability in Early-Career & Low-Income Roles:** 
     *   Attrition is most severe among employees at **Job Level 1** and those in the **lowest salary slabs**.
     *   Roles like **Sales Representative**, **Laboratory Technician**, and **Human Resources** show the highest turnover rates, indicating potential issues with career pathing, compensation, or job satisfaction in these specific areas.
 
